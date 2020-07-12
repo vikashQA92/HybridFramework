@@ -28,7 +28,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		logger.info("Click on submit button");
 		System.out.println("Login Successfully" + "Adding new code to repository");
 		System.out.println("Adding code From GitHub Repo.");
-		
+		System.out.println("Pushingthe changes to our new Branch");
 		
 		//System.out.println(driver.getTitle());
 		
