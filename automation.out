@@ -1,0 +1,83 @@
+2020-02-09 18:51:42 INFO  ebanking:17 - URL is open
+2020-02-09 18:51:42 INFO  ebanking:20 - Enter usrname
+2020-02-09 18:51:42 INFO  ebanking:23 - Enter Password
+2020-02-09 18:51:44 INFO  ebanking:25 - Click on submit button
+2020-02-09 18:51:44 INFO  ebanking:35 - Login test fail
+2020-02-09 18:54:17 INFO  ebanking:17 - URL is open
+2020-02-09 18:54:17 INFO  ebanking:20 - Enter usrname
+2020-02-09 18:54:17 INFO  ebanking:23 - Enter Password
+2020-02-09 18:54:19 INFO  ebanking:25 - Click on submit button
+2020-02-09 18:54:58 INFO  ebanking:35 - Login test fail
+2020-02-09 18:58:52 INFO  ebanking:17 - URL is open
+2020-02-09 18:58:53 INFO  ebanking:20 - Enter usrname
+2020-02-09 18:58:53 INFO  ebanking:23 - Enter Password
+2020-02-09 18:58:54 INFO  ebanking:25 - Click on submit button
+2020-02-09 18:58:54 INFO  ebanking:38 - Login test fail
+2020-02-09 18:59:44 INFO  ebanking:17 - URL is open
+2020-02-09 18:59:44 INFO  ebanking:20 - Enter usrname
+2020-02-09 18:59:44 INFO  ebanking:23 - Enter Password
+2020-02-09 18:59:46 INFO  ebanking:25 - Click on submit button
+2020-02-09 18:59:46 INFO  ebanking:33 - Login test pass
+2020-02-16 00:42:12 INFO  ebanking:17 - URL is open
+2020-02-16 00:42:13 INFO  ebanking:20 - Enter usrname
+2020-02-16 00:42:13 INFO  ebanking:23 - Enter Password
+2020-02-16 00:42:15 INFO  ebanking:25 - Click on submit button
+2020-02-16 00:42:15 INFO  ebanking:33 - Login test pass
+2020-02-16 00:56:36 INFO  ebanking:17 - URL is open
+2020-02-16 00:56:37 INFO  ebanking:20 - Enter usrname
+2020-02-16 00:56:37 INFO  ebanking:23 - Enter Password
+2020-02-16 00:56:40 INFO  ebanking:25 - Click on submit button
+2020-02-16 00:56:40 INFO  ebanking:33 - Login test pass
+2020-02-16 01:13:47 INFO  ebanking:17 - URL is open
+2020-02-16 01:13:48 INFO  ebanking:20 - Enter usrname
+2020-02-16 01:13:48 INFO  ebanking:23 - Enter Password
+2020-02-16 01:13:54 INFO  ebanking:25 - Click on submit button
+2020-02-16 01:13:54 INFO  ebanking:33 - Login test pass
+2020-02-16 16:54:40 INFO  ebanking:17 - URL is open
+2020-02-16 16:54:41 INFO  ebanking:20 - Enter usrname
+2020-02-16 16:54:41 INFO  ebanking:23 - Enter Password
+2020-02-16 16:54:44 INFO  ebanking:25 - Click on submit button
+2020-02-16 16:54:44 INFO  ebanking:33 - Login test pass
+2020-02-16 16:59:26 INFO  ebanking:17 - URL is open
+2020-02-16 16:59:26 INFO  ebanking:20 - Enter usrname
+2020-02-16 16:59:26 INFO  ebanking:23 - Enter Password
+2020-02-16 16:59:29 INFO  ebanking:25 - Click on submit button
+2020-02-16 16:59:29 INFO  ebanking:33 - Login test pass
+2020-02-16 17:13:40 INFO  ebanking:17 - URL is open
+2020-02-16 17:13:40 INFO  ebanking:20 - Enter usrname
+2020-02-16 17:13:41 INFO  ebanking:23 - Enter Password
+2020-02-16 17:13:44 INFO  ebanking:25 - Click on submit button
+2020-02-16 17:13:44 INFO  ebanking:33 - Login test pass
+2020-02-16 18:02:13 INFO  ebanking:17 - URL is open
+2020-02-16 18:02:13 INFO  ebanking:20 - Enter usrname
+2020-02-16 18:02:13 INFO  ebanking:23 - Enter Password
+2020-02-16 18:02:15 INFO  ebanking:25 - Click on submit button
+2020-02-16 18:02:15 INFO  ebanking:33 - Login test pass
+2020-02-16 22:12:48 INFO  ebanking:20 - URL is open
+2020-02-16 22:12:49 INFO  ebanking:23 - Enter usrname
+2020-02-16 22:12:49 INFO  ebanking:26 - Enter Password
+2020-02-16 22:12:52 INFO  ebanking:28 - Click on submit button
+2020-02-16 22:12:53 INFO  ebanking:42 - Login test fail
+2020-02-29 21:22:47 INFO  ebanking:20 - URL is open
+2020-02-29 21:22:47 INFO  ebanking:23 - Enter usrname
+2020-02-29 21:22:48 INFO  ebanking:26 - Enter Password
+2020-02-29 21:22:49 INFO  ebanking:28 - Click on submit button
+2020-02-29 21:22:49 INFO  ebanking:36 - Login test pass
+2020-02-29 21:23:48 INFO  ebanking:20 - URL is open
+2020-02-29 21:23:48 INFO  ebanking:23 - Enter usrname
+2020-02-29 21:23:49 INFO  ebanking:26 - Enter Password
+2020-02-29 21:23:50 INFO  ebanking:28 - Click on submit button
+2020-02-29 21:23:50 INFO  ebanking:36 - Login test pass
+2020-02-29 21:24:39 INFO  ebanking:20 - URL is open
+2020-02-29 21:24:39 INFO  ebanking:23 - Enter usrname
+2020-02-29 21:24:40 INFO  ebanking:26 - Enter Password
+2020-02-29 21:24:41 INFO  ebanking:28 - Click on submit button
+2020-02-29 21:24:42 INFO  ebanking:42 - Login test fail
+2020-02-29 21:27:40 INFO  ebanking:20 - URL is open
+2020-02-29 21:27:40 INFO  ebanking:23 - Enter usrname
+2020-02-29 21:27:41 INFO  ebanking:26 - Enter Password
+2020-02-29 21:27:41 INFO  ebanking:28 - Click on submit button
+2020-07-12 00:00:17 INFO  ebanking:20 - URL is open
+2020-07-12 00:00:18 INFO  ebanking:23 - Enter usrname
+2020-07-12 00:00:18 INFO  ebanking:26 - Enter Password
+2020-07-12 00:00:18 INFO  ebanking:28 - Click on submit button
